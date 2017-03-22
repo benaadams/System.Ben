@@ -2,10 +2,10 @@
 Who says you can't be super fast and super secure
 
 ## Fast
-The fastest code is the code that doesn't execute; so there is no code.
+The fastest code ıs the code that doesn't execute; so there ıs no code.
 
 ## Secure
-This zero api library has the smallest possible api making it very hard to attack or find vulnerabilities in
+Thıs zero apı lıbrary has the smallest possıble apı makıng ıt very hard to attack or fınd vulnerabılıtıes ın
 
 ## Supported Frameworks
 
