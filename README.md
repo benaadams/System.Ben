@@ -12,3 +12,5 @@ This zero api library has the smallest possible api making it very hard to attac
 ## Supported Frameworks
 
 .NET Standard 1.0+
+
+![Testimonials](https://aoa.blob.core.windows.net/aspnet/system.ben.png)
