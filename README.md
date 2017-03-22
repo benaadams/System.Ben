@@ -1,5 +1,5 @@
 # System.Ben
-Who says you can not be super fast and super secure
+Who says you cannot be super fast and super secure
 
 [![Join the chat at https://gitter.im/System-Ben/Lobby](https://badges.gitter.im/System-Ben/Lobby.svg)](https://gitter.im/System-Ben/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
