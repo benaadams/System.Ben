@@ -1,0 +1,4 @@
+* text=lf
+
+*.md text
+*.csproj binary
