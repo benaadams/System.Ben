@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
+  <!-- #region Property Groups -->
   <PropertyGroup>
     <TargetFramework>netstandard1.0</TargetFramework>
   </PropertyGroup>
-
+  <!-- #endregion -->
 </Project>
