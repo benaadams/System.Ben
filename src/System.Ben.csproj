@@ -2,6 +2,8 @@
   <!-- #region Property Groups -->
   <PropertyGroup>
     <TargetFrameworks>netstandard1.0;netstandard2.0</TargetFrameworks>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/benaadams/System.Ben.git</RepositoryUrl>
   </PropertyGroup>
   <!-- #endregion -->
 </Project>
