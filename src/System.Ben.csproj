@@ -1,7 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
-	<PropertyGroup>
-		<TargetFramework>netstandard1.0</TargetFramework>
-	</PropertyGroup>
-
+  <!-- #region Property Groups -->
+  <PropertyGroup>
+    <TargetFrameworks>netstandard1.0;netstandard2.0</TargetFrameworks>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/benaadams/System.Ben.git</RepositoryUrl>
+  </PropertyGroup>
+  <!-- #endregion -->
 </Project>
